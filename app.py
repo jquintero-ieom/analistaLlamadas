@@ -5,7 +5,7 @@ import json
 import time
 
 ###CARGA DE LA CLAVE DE API DIRECTAMENTE
-APY_KEY_DIRECTA = "AQ.Ab8RN6IVpdox3ZGuMAVw1E1eD8H0ZgDZYXGKOw5dLnLV-cwd9A"
+APY_KEY_DIRECTA = "AQ.Ab8RN6Ixy2pZnoAtjOZ0_eT6WH2tB0lZ0CaEs-XSrqZVjZi4Ig"
 
 ####CONSTRUCCIÓN DE LA GUI
 st.set_page_config(page_title="Analista IA para Llamadas",page_icon="🖥️",layout="wide")
